@@ -1,4 +1,4 @@
-data = '[{"nama" : "Kemangi 41"}, {"alamat" : "Jl. Tanah Merah IV Gang Kemangi No. 41"}, {"phone" : "0822"}, {"keterangan" : "Voucher Kemangi 41 bisa di beli di gang Kemangi No.41 atau gang Kluweh No.19 (Rosi)"}, {"copyright" : "2018 by Laksamadi Guko"}, {"masaaktif" : ""}, {"trial" : "Coba Gratis"}, {"notifikasi" : "Internet dalam perbaikan."}]';
+data = '[{"nama" : "Hotspot Miguel Warnet"}, {"alamat" : "Jl. Kembes Satu"}, {"phone" : "081319246007"}, {"keterangan" : "Voucher Kemangi 41 bisa di beli di Warnet Miguel (Alkin)"}, {"copyright" : "2019 by Alkin"}, {"masaaktif" : ""}, {"trial" : "Coba Gratis"}, {"notifikasi" : "Internet dalam perbaikan."}]';
 
 datatitle = '[{"title1" : "Paket Wifi"}, {"title2" : "Voucher"},{"title3" : "Alamat"}, {"title4" : "Kontak"}, {"title5" : "Peringatan"}, {"title6" : "Expired"}]';
 
